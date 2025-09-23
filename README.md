@@ -1,1 +1,1 @@
-Navttc Course
+Navttc AI/ML Course
